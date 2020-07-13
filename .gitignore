@@ -1,0 +1,7 @@
+# Ignore everything
+*
+# But descend into directories
+!*/
+!*.cfg
+!*.org
+!.gitignore
